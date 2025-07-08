@@ -1,0 +1,21 @@
+red:			LH: 161, LS: 49, LV: 61, UH: 255, US: 255, UV: 255
+idel_red:		LH: 170, LS: 102, LV: 168, UH: 255, US: 255, UV: 255
+
+blue: 			LH: 101, LS: 24, LV: 0, UH: 121, US: 255, UV: 255
+idel_blue: 		LH: 59, LS: 38, LV: 172, UH: 146, US: 248, UV: 255
+	
+purple:			LH: 120, LS: 12, LV: 47, UH: 165, US: 163, UV: 255
+idel_purple:		LH: 0, LS: 10, LV: 0, UH: 255, US: 130, UV: 179
+
+
+
+
+
+
+
+
+#WRONG
+
+PURPLE:		LH: 127, LS: 68, LV: 99, UH: 160, US: 160, UV: 141
+BLUE:		LH: 0, LS: 59, LV: 121, UH: 57, US: 255, UV: 208
+RED:		LH: 82, LS: 104, LV: 57, UH: 125, US: 255, UV: 255	
